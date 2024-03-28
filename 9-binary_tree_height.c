@@ -1,4 +1,4 @@
-#include "binary_trees.h"
+6#include "binary_trees.h"
 /**
  * helper_func - a function to get max height
  * @root: the root node.
